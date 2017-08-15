@@ -7,8 +7,8 @@ This basis was then extended to allow more complex structures by branching of cu
 3D-printing is the target method of fabrication. 
 
 <p align="center">
-<img alt="local similarity" height="150px" src="https://raw.githubusercontent.com/leafar-tb/meltables/master/images/simplePrint.png">
-<img alt="local similarity" height="150px" src="https://raw.githubusercontent.com/leafar-tb/meltables/master/images/printFolded.png">
+<img height="150px" src="https://raw.githubusercontent.com/leafar-tb/meltables/master/images/simplePrint.png">
+<img height="150px" src="https://raw.githubusercontent.com/leafar-tb/meltables/master/images/printFolded.png">
 </p>
 
 ## Motivation
@@ -27,7 +27,7 @@ The paper also suggests that an object created via a Meltable is more robust tha
 For understanding the general approach, best refer to the [original paper](https://d2f99xq7vri1nk.cloudfront.net/Meltables2015_final.pdf).
 
 ## Extension: Branching
-<p align="center"><img alt="local similarity" width="90%" src="https://raw.githubusercontent.com/leafar-tb/meltables/master/images/branchedFlatFolded.jpg"></p>
+<p align="center"><img width="90%" src="https://raw.githubusercontent.com/leafar-tb/meltables/master/images/branchedFlatFolded.jpg"></p>
 Building on the base approach solution, we aimed to extend the design space for Meltables.
 Already it is possible to combine Meltables into more complex objects through the help of external software or physical assembly.
 We integrated this option directly into our editor.
